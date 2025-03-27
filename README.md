@@ -13,7 +13,8 @@ Aparte de estos programas también me manejo con:
 - **FL STUDIO**
 - **AUDACITY**
 - **SERATO DJ LITE**
-- ![Uploading Captura de pantalla 2025-03-27 201018.jpg…]()
+
+![Captura de pantalla 2025-03-27 201018](https://github.com/user-attachments/assets/ff8bccb3-7da2-46e2-b365-ab36b6bbb8fa)
 
 
 ## Mis intereses:
