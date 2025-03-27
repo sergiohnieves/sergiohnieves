@@ -1,16 +1,24 @@
-## Hi there 👋
+Me llamo **Sergio Nieves Gallego**, actualmente estoy cursando el **grado superior de animación**. Dentro del ciclo nos están enseñando programas como:
 
-<!--
-**sergiohnieves/sergiohnieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **SUBSTANCE PAINTER**
+- **MAYA 3D**
+- **BLENDER**
+- **DAVINCI**
+- **PREMIERE**
+- **PHOTOSHOP**
 
-Here are some ideas to get you started:
+Aparte de estos programas también me manejo con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ABLETON**
+- **FL STUDIO**
+- **AUDACITY**
+- **SERATO DJ LITE**
+
+## Mis intereses:
+- La música
+- Obras audiovisuales
+- Artes plásticas
+- Artes escénicas
+- Arte urbano
+
+
